@@ -1,2 +1,9 @@
 # XAI_Self_Study
-eXpainable Artificial intelligence
+* eXpainable Artificial intelligence
+* XAI의 종류와 코딩을 정리
+---
+1. 설명가능한 AI
+
+대부분 알고있는 딥러닝 모델은 입력에 대한 결과를 예측하고 분류할 뿐 딥러닝의 매우 복잡한 과정속에서 결과를 설명하는 것은 매우 어렵다.
+그러나 결과를 설명하는 것은 매우 중요하다. 
+딥러닝을 통하여 어떠한 정보를 바탕으로 결과를 도출해내는지 모른다면 사용하려하는 딥러닝 모델의 신뢰성이 현저히 떨어진다. 
