@@ -26,6 +26,11 @@
 위의 식에서 다음 식을 통해 baseline과 원본 이미지 사이에 선형 보간을 생성한다.
 ![image](https://user-images.githubusercontent.com/71332005/137853523-588582fd-fbd0-4867-857f-fe2d73dbbce6.png)
 
-![image](https://user-images.githubusercontent.com/71332005/137853545-4cf91db3-8041-486d-bf66-0d499ae64073.png)
+선형 보간한 이미지들의 gradient를 구하여 이미지에서 픽셀의 영향을 확인할 수 있다.
+
+![image](https://user-images.githubusercontent.com/71332005/137855470-99c8af7a-c13c-4c7c-9993-27a1d581c0e3.png)
+![image](https://user-images.githubusercontent.com/71332005/137855488-f7bed532-886b-422c-a9e6-4502f36f7dd9.png)
+![image](https://user-images.githubusercontent.com/71332005/137855503-f37fbd2c-a3c5-44f9-ad4b-ae96f8eadd57.png)
+
 
 
