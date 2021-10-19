@@ -21,7 +21,8 @@
 ![image](https://user-images.githubusercontent.com/71332005/137852768-265fd90a-39f8-4eb6-8a30-76a257dee74b.png)
  
  IG의 식은 다음과 같다   
- ![image](https://user-images.githubusercontent.com/71332005/137853298-c4133d3d-4fae-43e7-95ba-addf2be543d2.png)![image](https://user-images.githubusercontent.com/71332005/137853346-f4702680-c623-47da-a1fd-fe07cd6f65ca.png)
+ ![image](https://user-images.githubusercontent.com/71332005/137853298-c4133d3d-4fae-43e7-95ba-addf2be543d2.png)
+ ![image](https://user-images.githubusercontent.com/71332005/137853346-f4702680-c623-47da-a1fd-fe07cd6f65ca.png)
 
 위의 식에서 다음 식을 통해 baseline과 원본 이미지 사이에 선형 보간을 생성한다.   
 ![image](https://user-images.githubusercontent.com/71332005/137853523-588582fd-fbd0-4867-857f-fe2d73dbbce6.png)
