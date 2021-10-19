@@ -20,13 +20,13 @@
  
 ![image](https://user-images.githubusercontent.com/71332005/137852768-265fd90a-39f8-4eb6-8a30-76a257dee74b.png)
  
- IG의 식은 다음과 같다
+ IG의 식은 다음과 같다   
  ![image](https://user-images.githubusercontent.com/71332005/137853298-c4133d3d-4fae-43e7-95ba-addf2be543d2.png)![image](https://user-images.githubusercontent.com/71332005/137853346-f4702680-c623-47da-a1fd-fe07cd6f65ca.png)
 
-위의 식에서 다음 식을 통해 baseline과 원본 이미지 사이에 선형 보간을 생성한다.
+위의 식에서 다음 식을 통해 baseline과 원본 이미지 사이에 선형 보간을 생성한다.   
 ![image](https://user-images.githubusercontent.com/71332005/137853523-588582fd-fbd0-4867-857f-fe2d73dbbce6.png)
 
-선형 보간한 이미지들의 gradient를 구하여 이미지에서 픽셀의 영향을 확인할 수 있다.
+선형 보간한 이미지들의 gradient를 구하여 이미지에서 픽셀의 영향을 확인할 수 있다.   
 
 ![image](https://user-images.githubusercontent.com/71332005/137855470-99c8af7a-c13c-4c7c-9993-27a1d581c0e3.png)
 ![image](https://user-images.githubusercontent.com/71332005/137855488-f7bed532-886b-422c-a9e6-4502f36f7dd9.png)
